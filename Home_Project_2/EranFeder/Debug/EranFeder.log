@@ -1,0 +1,3 @@
+﻿  Customer.c
+c:\users\eran\source\repos\eranfeder\eranfeder\customer.c(10): warning C4047: 'initializing': 'Customer *' differs in levels of indirection from 'Customer **'
+  EranFeder.vcxproj -> C:\Users\Eran\source\repos\EranFeder\Debug\EranFeder.exe
